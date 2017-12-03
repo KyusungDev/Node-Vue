@@ -1,6 +1,6 @@
 {
-  "name": "Node.js Sample",
+  "name": "Heroku Node.js Server",
   "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-sample",
+  "repository": "https://github.com/KyusungDev/heroku-node-server.git",
   "keywords": ["node", "express", "static"]
 }
