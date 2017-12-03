@@ -1,5 +1,5 @@
 {
-  "name": "node-js-sample",
+  "name": "heroku_server",
   "version": "0.2.0",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
@@ -13,17 +13,17 @@
     "node": "4.0.0"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "type": "http",
+    "url": "https://github.com/KyusungDev/heroku-node-server.git"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
+  "author": "Kyusung",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    ""
   ],
   "license": "MIT"
 }
